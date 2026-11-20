@@ -1,0 +1,8 @@
+{
+  "latest_version": "2.7.0",
+  "min_supported_version": "2.7.0",
+  "force_update": true,
+  "download_url": "https://github.com/lutfiwidianto/whatsapp-desktop-releases/releases/latest/download/WhatsApp_Setup.exe",
+  "portable_download_url": "https://github.com/lutfiwidianto/whatsapp-desktop-releases/releases/latest/download/WhatsAppDesktop.exe",
+  "changelog": "Pembaruan UI Smooth & Manis, Developer Lutfi Widianto, Eliminasi Edge AI, dan Sistem Force Update Otomatis."
+}
