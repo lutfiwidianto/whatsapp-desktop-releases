@@ -16,7 +16,7 @@ Aplikasi container desktop resmi & modern untuk **WhatsApp Web** berbasis native
 
 ---
 
-## 📥 Unduh Versi Terbaru (v2.7.0)
+## 📥 Unduh Versi Terbaru (v2.7.1)
 
 Pilih salah satu format sesuai kebutuhan Anda:
 
