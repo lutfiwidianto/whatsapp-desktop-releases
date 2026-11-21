@@ -1,8 +1,8 @@
 {
-  "latest_version": "2.7.1",
+  "latest_version": "2.7.2",
   "min_supported_version": "2.7.0",
   "force_update": false,
   "download_url": "https://github.com/lutfiwidianto/whatsapp-desktop-releases/releases/latest/download/WhatsApp_Setup.exe",
   "portable_download_url": "https://github.com/lutfiwidianto/whatsapp-desktop-releases/releases/latest/download/WhatsAppDesktop.exe",
-  "changelog": "Fitur Mode Layar Penuh Immersi (F11, Tanpa Title Bar, Taskbar Tetap Terlihat), Tombol Cepat Un-Fullscreen & Panah Naik/Turun di Posisi Tengah Konsisten, dan Peningkatan UX."
+  "changelog": "Fitur Auto-Hide Cerdas (Layar 100% Bersih & Tampil Saat Mouse Diarahkan ke Atas), Header WhatsApp Utuh Sempurna Tanpa Terpotong, dan UI Bersih Minimalis."
 }
